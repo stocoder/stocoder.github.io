@@ -5,7 +5,6 @@
 
 
 body {
-      opacity: 0.5;
       background-image: url(bg.png),url(10.jpg);
       background-size: cover;
       background-repeat: no-repeat;
@@ -14,6 +13,17 @@ body {
       padding: 0;
       height: 100%;
       width:100%;
+    }
+bodyf {
+      background-image: url(10.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+	  background-position: left top;
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width:100%;
+      opacity: 0,8;
     }
 
 
