@@ -333,6 +333,7 @@ html{
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 180%;
+    color: #287a76;
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
