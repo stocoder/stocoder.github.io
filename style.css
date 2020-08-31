@@ -1,18 +1,14 @@
 
-/**
- * https://codewebdao.com
- */
-
-
 body {
       background-image: url(20.png);
       background-size: cover;
       background-repeat: no-repeat;
 	  background-position: left top;
       margin: 0;
-      padding: 0;
-      height: 100%;
-      width:100%;
+      height: calc(100vh - 8em);
+  padding: 4em;
+  color: rgba(255,255,255,.75);
+  font-family: 'Anonymous Pro', monospace;  
     }
 bodyf {
       background-image: url(10.jpg);
